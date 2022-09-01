@@ -13,6 +13,7 @@
 **Common**
 - [Using](https://www.plesk.com/blog/product-technology/elasticstack-data-analysis-xenforo-forums/) Elastic Stack for Data Analysis and XenForo for Forums
 - [Warning](https://www.plesk.com/blog/security-alerts/fileless-attacks-rising/): Fileless Attacks Are On The Rise
+- How to set up a (https://www.plesk.com/blog/business-industry/how-to-set-up-a-cookie-consent-banner/)[Cookie Consent Banner]
 
 ### Russian-speaking articles
 
