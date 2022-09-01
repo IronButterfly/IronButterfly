@@ -29,6 +29,7 @@
 
 **Умный Дом**
 - [О чем спорят](https://habr.com/ru/company/plesk/blog/553510/) строители Умных Домов, Бань, Дач и Гаражей
+- Как добавить [неподдерживаемое устройство в Zigbee2mqtt](https://sprut.ai/blog/kak-dobavit-nepodderzhivaemoe-ustroystvo-v-zigbee2mqtt)
 - Как сделать [красивый управляемый Floorplan](https://sprut.ai/client/article/2720) для Home Assistant
 - [Термостаты](https://sprut.ai/client/article/2719) Eurotronic Spirit Zigbee в умном доме под управлением HomeAssistant
 - [Переезд](https://sprut.ai/client/article/2178) с micro SD card на eMMC на Raspberry Pi4
