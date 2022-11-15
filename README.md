@@ -2,6 +2,7 @@
 
 - Мой [Telegram](https://t.me/pavukstales) канал с тем, что меня радует, в основном и о моих опытах с HomeAssistant
 - Mой [YouTube](https://www.youtube.com/channel/UC7EHHTNY06z_kItxECNLbFw) канал с рассказами о наших с женой путешествиях
+- Видео с моим выступлением на [ProductCampNsk 2019](https://youtu.be/3BhlZ08HZ_I) о том, как я работаю с Plesk Community.
 
 ### English-speaking articles
 
