@@ -27,7 +27,7 @@
 **Хостинг**
 - [Выбор](https://habr.com/ru/company/plesk/blog/548302/) оптимальной платформы для веб приложения
 - Как сделать ваш сайт соответствующим [требованиям GDPR](https://habr.com/ru/company/plesk/blog/679474/) к политике конфиденциальности файлов cookie?
-- Установка [Laravel-приложений](https://habr.com/ru/company/plesk/blog/679474/) на хостинг с ispmanager.
+- Установка [Laravel-приложений](https://habr.com/ru/companies/ispmanager/articles/730268/) на хостинг с ispmanager.
 
 **Умный Дом**
 - [О чем спорят](https://habr.com/ru/company/plesk/blog/553510/) строители Умных Домов, Бань, Дач и Гаражей
