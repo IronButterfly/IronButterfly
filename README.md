@@ -19,6 +19,7 @@
 ### Russian-speaking articles
 
 **Работа с сообществом**
+- Как мы научили [робота](https://habr.com/ru/companies/parallels/articles/154357/) помогать саппорту (автор я, опубликовано под аккаунтом коллеги)
 - [Превращаем](https://habr.com/ru/company/parallels/blog/252151/) бесполезный фидбек в полезный: работа с сообществом Plesk
 - [Геймификация](https://habr.com/ru/company/plesk/blog/313732/) форума на движке XenForo
 - [Переезд](https://habr.com/ru/company/plesk/blog/326636/) XenForo форума на современную платформу
