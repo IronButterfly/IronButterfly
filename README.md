@@ -11,11 +11,13 @@
 - My Plesk [User Experience (2)](https://www.plesk.com/blog/product-technology/my-plesk-user-experience-2-lessons-learned-testing-plesk-onyx/): Lessons learned from testing Plesk Onyx
 - [6 reasons](https://www.plesk.com/blog/product-technology/six-reasons-why-update-plesk/) why you need to update Plesk now
 
+**ispmanager**
+- [How to install Laravel applications](https://www.ispmanager.com/news/how-to-install-laravel-on-ispmanager) on a hosting with ispmanager
+
 **Common**
 - [Using](https://www.plesk.com/blog/product-technology/elasticstack-data-analysis-xenforo-forums/) Elastic Stack for Data Analysis and XenForo for Forums
 - [Warning](https://www.plesk.com/blog/security-alerts/fileless-attacks-rising/): Fileless Attacks Are On The Rise
 - [How to set up](https://www.plesk.com/blog/business-industry/how-to-set-up-a-cookie-consent-banner/) a Cookie Consent Banner
-- [How to install Laravel applications](https://www.ispmanager.com/news/how-to-install-laravel-on-ispmanager) on a hosting with ispmanager
 
 ### Russian-speaking articles
 
