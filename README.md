@@ -27,7 +27,8 @@
 - [Геймификация](https://habr.com/ru/company/plesk/blog/313732/) форума на движке XenForo
 - [Переезд](https://habr.com/ru/company/plesk/blog/326636/) XenForo форума на современную платформу
 - Как вырастить [Евангелиста](https://habr.com/ru/company/plesk/blog/457820/) для вашей компании
-
+- О том, [что нужно знать](https://habr.com/ru/articles/822617/) при отзыве на вакансию Community Manager
+  
 **Хостинг**
 - [Выбор](https://habr.com/ru/company/plesk/blog/548302/) оптимальной платформы для веб приложения
 - Как сделать ваш сайт соответствующим [требованиям GDPR](https://habr.com/ru/company/plesk/blog/679474/) к политике конфиденциальности файлов cookie?
